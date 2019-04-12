@@ -1,7 +1,4 @@
 testing 124
 next line
-<<<<<<< Updated upstream
 yay
-=======
 no
->>>>>>> Stashed changes
